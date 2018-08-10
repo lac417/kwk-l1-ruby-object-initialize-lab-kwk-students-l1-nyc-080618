@@ -15,3 +15,5 @@ class Dog
   
 end
 
+dog_one = Dog.new('Bone', 'Dalmation')
+puts dog_one.name
