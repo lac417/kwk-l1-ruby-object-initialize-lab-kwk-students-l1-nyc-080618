@@ -10,8 +10,13 @@ class Dog
   end
   
   def breed
+    @breed = Mutt
+  end
+  
+  def breed
     @breed
   end
+  
 end
 
 breed = Dog.new('Mutt')
