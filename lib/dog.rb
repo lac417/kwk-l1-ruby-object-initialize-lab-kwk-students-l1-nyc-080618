@@ -15,3 +15,4 @@ class Dog
 end
 
 breed = dog.new("Mutt")
+puts breed
