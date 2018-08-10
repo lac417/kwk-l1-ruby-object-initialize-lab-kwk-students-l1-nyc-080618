@@ -18,5 +18,5 @@ end
 dog_one = Dog.new('Bone', 'Dalmation')
 puts dog_one.name
 
-dog_two = Dog.new('Chestyr', 'Golden Retriever')
+dog_two = Dog.new('Chestyr')
 puts dog_two.breed
