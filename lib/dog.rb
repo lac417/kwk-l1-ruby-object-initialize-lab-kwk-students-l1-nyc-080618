@@ -16,5 +16,3 @@ class Dog
   
 end
 
-breed = Dog.new('Mutt')
-puts breed
